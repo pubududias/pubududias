@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm Pubudu</h2>
+<h1 align="center">Hi 👋, I'm Pubudu</h1>
 
-<h4 align="center">A passionate Devops engineer</h4>
+<h2 align="center">A passionate Devops engineer</h2>
 
 I have worked in IT for over three years as a DevOps Engineer. I enjoy finding innovative uses for technology and am always looking for better approaches to enhancing the speed and security of software creation and distribution.
 
