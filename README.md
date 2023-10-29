@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate Devops engineer</h2>
 
-I have worked in IT for over three years as a DevOps Engineer. I enjoy finding innovative uses for technology and am always looking for better approaches to enhancing the speed and security of software creation and distribution.
+I have worked in IT for two years as a DevOps Engineer. I enjoy finding innovative uses for technology and am always looking for better approaches to enhancing the speed and security of software creation and distribution.
 
 Python, Terraform, Docker, and Amazon Web Services are just a few of the DevOps tools and technologies that I am well-versed in. In addition, I have extensive knowledge of networking and security and am proficient as a system administrator.
 
