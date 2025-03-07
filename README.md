@@ -11,7 +11,6 @@ I like to take trips, hang out with my loved ones, and watch films when I have f
 I have extensive experience as a DevOps Engineer and am very driven and knowledgeable in this field. I bring a lot to the table and am always up for a challenge.
 
 - 💬 I regularly write articles on ...
-- 📫 How to reach me: https://www.linkedin.com/in/pubududias/
 
 <h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/pubududias/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pubududias/" height="30" width="40" style="max-width: 100%;"></a>
